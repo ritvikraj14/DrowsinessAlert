@@ -35,3 +35,7 @@ python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 
 ### Congratulations!
 - [X] You just sent your first text through your Python Text App that uses the Twilio API.
+
+
+
+Before Running this directly change the details in credentials.py with your own account details and phone number.
