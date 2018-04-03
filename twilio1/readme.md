@@ -38,4 +38,4 @@ python Desktop/CP-Twilio-Python-Text-App/send_sms.py
 
 
 
-Before Running this directly change the details in credentials.py with your own account details and phone number.
+Note: Before Running this directly change the details in credentials.py with your own account details and phone number.
