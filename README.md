@@ -11,7 +11,7 @@ https://drive.google.com/drive/u/1/folders/1yio8CFZGv-g6TzdReo8NzvQa43DIPqWK
 3) Keep Shape predictor (download from above link), DrowsinessAlert.py, twilio1 in one folder and run the DrowsinessAlert.py from the terminal using the instruction given in run-code.docx
 
 
-
+PS: Won 2nd Prize in iSafe Road Safety Hackathon 2018 
 
 
 
